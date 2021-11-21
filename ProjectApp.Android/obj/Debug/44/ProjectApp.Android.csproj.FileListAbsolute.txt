@@ -1,0 +1,3 @@
+C:\Users\ukush\source\repos\ProjectApp\ProjectApp.Android\obj\Debug\44\MonoAndroid,Version=v4.4.AssemblyAttributes.cs
+C:\Users\ukush\source\repos\ProjectApp\ProjectApp.Android\obj\Debug\44\build.props
+C:\Users\ukush\source\repos\ProjectApp\ProjectApp.Android\obj\Debug\44\adb.props
