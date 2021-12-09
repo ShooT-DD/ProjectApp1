@@ -14,3 +14,5 @@ C:\Users\ukush\source\repos\ProjectApp\ProjectApp\bin\Debug\netstandard2.0\Proje
 C:\Users\ukush\source\repos\ProjectApp\ProjectApp\bin\Debug\netstandard2.0\ref\ProjectApp.dll
 C:\Users\ukush\source\repos\ProjectApp\ProjectApp\bin\Debug\netstandard2.0\ProjectApp.pdb
 C:\Users\ukush\source\repos\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ukush\source\repos\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\ListViewPage.xaml.g.cs
+C:\Users\ukush\source\repos\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\MainMenu.xaml.g.cs

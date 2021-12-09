@@ -16,7 +16,7 @@ namespace ProjectApp
         {
             if (DataBase.CheckPassword(login.Text, password.Text))
             {
-                Application.Current.MainPage = new MainPage();
+                Application.Current.MainPage = new MainMenu();
                 App.Login = true;
             }
         }
